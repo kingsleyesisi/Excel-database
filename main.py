@@ -10,7 +10,7 @@ def excel_file(file_name):
 
 def view_rows(df):
   """ view all rows in the excel file 
-  args*:   df
+  args*:   df # which is the dataframe
   return: None 
   """
     print(df)
