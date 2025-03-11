@@ -1,6 +1,6 @@
 # Excel as a Database: Simple Data Management Script
 
-This Python script enables you to use Microsoft Excel as a database, allowing you to store, manage, and manipulate data directly from Excel files. Perfect for small-scale projects or those who prefer working in Excel but need more flexibility than basic spreadsheets can offer.
+This Python script enables you to use Microsoft Excel as a little database, allowing you to store, manage, and manipulate data directly from Excel files. Perfect for small-scale projects or those who prefer working in Excel but need more flexibility than basic spreadsheets can offer.
 
 ## Key Features
 - **Read Data**: Easily read data from Excel sheets, supporting specific ranges or entire sheets.
